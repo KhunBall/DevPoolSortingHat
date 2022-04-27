@@ -1,0 +1,4 @@
+Slytherin House : ['Steph Curry', 'ANDERSON', 'Russell Westbrook', 'GARCIA', 'LOPEZ', 'Karl-Anthony Towns', 'JACKSON', 'Dwyane Wade', 'Kevin Durant', 'MILLER', 'James Harden', 'SMITH', 'D\\Angelo Russell'] 
+Gryffindor House : ['RODRIGUEZ', 'Kawhi Leonard', 'THOMPSON', 'PEREZ', 'DAVIS', 'Giannis Antetokounmpo', 'Paul George', 'JONES', 'MOORE', 'Damian Lillard', 'Klay Thompson', 'WHITE', 'LEE'] 
+Hufflepuff House : ['THOMAS', 'Joel Embiid', 'LaMarcus Aldridge', 'Bradley Beal', 'Dirk Nowitzki', 'Ben Simmons', 'WILSON', 'LeBron James', 'WILLIAMS', 'JOHNSON', 'Kyrie Irving', 'Khris Middleton'] 
+Ravenclaw House : ['Kemba Walker', 'Nikola Vučević', 'Kyle Lowry', 'HERNANDEZ', 'MARTINEZ', 'Blake Griffin', 'GONZALEZ', 'Anthony Davis', 'MARTIN', 'Nikola Jokić', 'TAYLOR', 'BROWN'] 
